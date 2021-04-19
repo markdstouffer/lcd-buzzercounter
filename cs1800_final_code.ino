@@ -165,3 +165,4 @@ void play(int noteNum) {
   tone(7, frequencies[noteNum], 40);
   delay(25);
 }
+"# lcd-buzzercounter" 
